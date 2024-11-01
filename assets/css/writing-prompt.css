@@ -1,0 +1,16 @@
+.writing-prompt {
+	background-color: #FAE6D8;
+	margin: 40px 20px 0 0;
+	padding: 20px;
+	border: 1px solid #ddd;
+}
+.writing-prompt h2 {
+	margin-top: 0;
+}
+.writing-prompt a {
+	color: #ff6633;
+	text-decoration: none;
+}
+.writing-prompt a:hover {
+	color: #ff9933;
+}
